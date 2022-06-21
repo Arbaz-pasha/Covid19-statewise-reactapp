@@ -1,0 +1,24 @@
+section{
+  background-color: whitesmoke;
+  border: 5px solid black;
+  height: 100vh;
+}
+.container-fluid{
+  /* border: 5px solid black; */
+  background-color: white;
+  margin: 50px 10px ;
+  width: auto;
+  height: 80vh;
+  overflow-x: auto;
+  box-shadow: 0 0  10px #888888;
+  border-radius: 5px;
+}
+
+td{
+  border: 0.5px solid black;
+}
+
+td:hover{
+  background-color: greenyellow;
+}
+
