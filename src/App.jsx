@@ -14,6 +14,8 @@ console.log(getByTitle);
         {/* <Context/> */}
        {/* <UEffect/> */}
     <Statewise/>
+
+    <h1>hii its test for netlify</h1>
         </section>
     )
 }
