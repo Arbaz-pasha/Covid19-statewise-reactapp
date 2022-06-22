@@ -1,8 +1,8 @@
 import { getByTitle } from "@testing-library/react";
 import React,{useEffect} from "react";
-import Context from "./contextapi/Context";
+//import Context from "./contextapi/Context";
 import Statewise from "./Statewise";
-import UEffect  from "./useEffect/UEffect";
+//import UEffect  from "./useEffect/UEffect";
 import './index.css';
 const App=()=>{
 
